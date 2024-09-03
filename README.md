@@ -1,6 +1,6 @@
-[![Gwanghyeon-k's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonpower)](https://github.com/anuraghazra/github-readme-stats)
+[![Gwanghyeon-k's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwanghyeon-k)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonpower&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwanghyeon-k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Gwanghyeon-k/Gwanghyeon-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
